@@ -1,11 +1,6 @@
 const express = require('express');
 const Joi = require('joi');
 
-function getNotes(req, res, next) {
-    console.log('router');
-    next();
-}
-
 function addNote(req, res, next) {
     const hasError = noteSchema.validate(req.body);
     if(hasError.error) {
@@ -21,5 +16,4 @@ const noteSchema = Joi.object({
     note: Joi.string().required()
 });
 
-exports.getNotesRoute = getNotes;
 exports.addNoteRoute = addNote;

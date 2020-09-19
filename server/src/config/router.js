@@ -7,7 +7,7 @@ const { getNotesController, addNoteController } = require('../controller/notes.c
 //     res.send('Hello world 3');
 // });
 
-router.get('/notes', getNotesRoute, getNotesController);
+router.get('/notes', getNotesController);
 router.post('/note', addNoteRoute, addNoteController);
 
 module.exports = router;

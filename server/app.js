@@ -3,9 +3,10 @@ const Router = require('./src/config/router');
 const mongoose = require('mongoose')
 const app = express();
 
-const logger = require('./src/config/logger')
+const {logger, logRequest} = require('./src/config/logger')
 
 app.use(express.json());
+app.use(logRequest);
 app.use('/api', Router);
 
 const PORT = process.env.PORT || 3000;

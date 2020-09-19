@@ -2,9 +2,9 @@ const { createLogger, format, transports } = require('winston');
 const { combine, timestamp, label, printf } = format;
 
 const myFormat = printf(({ level, message, label, timestamp }) => {
-    return `${new Date(timestamp)} ${level}: ${message}`;
+    return `${level} ${new Date(timestamp)}: ${message}`;
 });
-module.exports = createLogger({
+const logger = createLogger({
     level: 'info',
     format: combine(
         timestamp(),
@@ -16,3 +16,13 @@ module.exports = createLogger({
         new transports.Console(),
     ]
 });
+
+function logRequest(req, res, next) {
+    logger.info(req.originalUrl);
+    logger.info(JSON.stringify(req.body));
+
+    next();
+}
+
+exports.logger = logger;
+exports.logRequest = logRequest;

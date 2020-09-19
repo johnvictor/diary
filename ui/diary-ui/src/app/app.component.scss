@@ -1,0 +1,27 @@
+p-card {
+    margin: 10px;
+}
+
+:host ::ng-deep p-accordion .p-accordion-header-link {
+    background: #121528 !important;
+    border: none !important;
+}
+:host ::ng-deep p-accordion .p-accordion-content {
+    background: #121528 !important;
+    border: none !important;
+}
+:host ::ng-deep p-accordion .p-accordion-header-link:focus {
+    box-shadow: none !important;
+    outline: 0 none;
+    outline-offset: 0;
+}
+
+.list-item {
+    div {
+        font-weight: bold;
+    }
+
+    border-left: 2px solid blue;
+    padding-left: 10px;
+    margin-left: 30px;
+}

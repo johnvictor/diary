@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'diary-ui';
+
+  style = { 'width': '400px', 'margin': '2em', 'height': 'calc(100vh - 6em)', background: '#111633' };
 }

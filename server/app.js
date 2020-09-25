@@ -1,12 +1,16 @@
 const express = require('express');
-const Router = require('./src/config/router');
 const mongoose = require('mongoose')
+
+const passportSetup = require('./src/config/passport');
+const AuthRouter = require('./src/route/auth.route');
+const Router = require('./src/config/router');
 const app = express();
 
 const {logger, logRequest} = require('./src/config/logger')
 
 app.use(express.json());
 app.use(logRequest);
+app.use('/auth', AuthRouter);
 app.use('/api', Router);
 
 const PORT = process.env.PORT || 3000;

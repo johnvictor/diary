@@ -2,12 +2,16 @@ const express = require('express');
 const router = express.Router();
 const { getNotesRoute, addNoteRoute } = require('../route/notes.route');
 const { getNotesController, addNoteController } = require('../controller/notes.controller');
+const { getProfileRoute } = require('../controller/profile.controller');
 
-// router.use('', function(req, res, next) {
-//     res.send('Hello world 3');
-// });
+const authcheck = (req, res, next) => {
+    if(!req.user) return res.send('Not logged in');
 
-router.get('/notes', getNotesController);
-router.post('/note', addNoteRoute, addNoteController);
+    next();
+};
+
+router.get('/notes', authcheck, getNotesController);
+router.post('/note', authcheck, addNoteRoute, addNoteController);
+router.get('/profile', authcheck, getProfileRoute);
 
 module.exports = router;

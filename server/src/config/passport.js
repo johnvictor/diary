@@ -18,6 +18,7 @@ passport.use(
         clientID: KEYS.passport.google.clientID,
         clientSecret: KEYS.passport.google.clientSecret
     }, async (accessToken, refreshToken, profile, done) => {
+        console.log(profile);
         const user = await UserModel.findOne({googleId: profile.id});
         if(user) {
             done(null, user);

@@ -1,0 +1,340 @@
+info Sat Sep 26 2020 20:30:35 GMT+0530 (India Standard Time): db connection success
+info Sat Sep 26 2020 20:30:35 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sat Sep 26 2020 20:30:48 GMT+0530 (India Standard Time): /api/notes
+info Sat Sep 26 2020 20:30:48 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 11:12:24 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 11:12:24 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 11:13:02 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 11:13:02 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 11:14:05 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 11:14:05 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 11:14:17 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 11:14:17 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 11:14:33 GMT+0530 (India Standard Time): /api/note
+info Sun Sep 27 2020 11:14:33 GMT+0530 (India Standard Time): {"userId":"john1","title":"Study 14","note":"Lesson 14"}
+info Sun Sep 27 2020 14:25:37 GMT+0530 (India Standard Time): /auth/google
+info Sun Sep 27 2020 14:25:37 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 14:26:10 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F4gG1Ou08XLi3-6eqrUbR2vSTdJ-zikf3uJ4Xcht9usUkrpDJCJGI2TVXLJ4Dx0dRIEIfrd6FG8Jc-nQ3bbC7R-c&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sun Sep 27 2020 14:26:10 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 14:26:10 GMT+0530 (India Standard Time): /api/profile
+info Sun Sep 27 2020 14:26:10 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 14:26:11 GMT+0530 (India Standard Time): /favicon.ico
+info Sun Sep 27 2020 14:26:11 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 14:33:54 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 14:33:54 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 14:34:23 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F4gE2r-9JyS5rGcCx6w4bg2cXTFSS4jjPqsRnq9iWKBiPgke9F3XYxJBn1zQoLhtQ16urxSiEtbuB8Z8h77EM2-c&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sun Sep 27 2020 14:35:21 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 14:35:21 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 14:36:16 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 14:36:16 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 18:52:47 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 18:52:47 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 18:53:51 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 18:53:51 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 18:54:37 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 18:54:37 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 18:55:22 GMT+0530 (India Standard Time): /auth/google
+info Sun Sep 27 2020 18:55:22 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 18:55:25 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F4gEcqQh6d2o79jNH9MqsQHowMN3N9IUJWm2N2vnPcAioTw1e1sfV2vVgmhqYC1QfXYnnnwMdDBwKL1IlFyfVibY&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sun Sep 27 2020 18:55:25 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 18:55:25 GMT+0530 (India Standard Time): /api/profile
+info Sun Sep 27 2020 18:55:25 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 18:56:17 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 18:56:17 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 18:56:25 GMT+0530 (India Standard Time): /auth/google
+info Sun Sep 27 2020 18:56:25 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 18:56:31 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F4gGQDgZGl1penx5a2N2QNa72jppPkwrvOUdZzf9qrFGIAJFvD-oiA0DDuFYa2l2eJYVshMOqpLP0HDkbA_nByFM&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sun Sep 27 2020 18:56:31 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 18:56:32 GMT+0530 (India Standard Time): /api/profile
+info Sun Sep 27 2020 18:56:32 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 18:59:00 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F4gHMbP-hg6gWL-e0OI4LKCMYtOZoyXq80chPyXL03GlGxJzxzS5BjrefYERPI-HCHxk1RUjYGWzKmiVPmNaxNUk&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sun Sep 27 2020 18:59:00 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 18:59:01 GMT+0530 (India Standard Time): /api/profile
+info Sun Sep 27 2020 18:59:01 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:03:44 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 19:03:44 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 19:03:51 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 19:03:51 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 19:03:53 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 19:03:53 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 19:05:59 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 19:05:59 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 19:06:04 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 19:06:04 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 19:12:38 GMT+0530 (India Standard Time): /auth/logout
+info Sun Sep 27 2020 19:12:38 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:13:26 GMT+0530 (India Standard Time): /api/notes
+info Sun Sep 27 2020 19:13:26 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:13:39 GMT+0530 (India Standard Time): db connection success
+info Sun Sep 27 2020 19:13:39 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sun Sep 27 2020 19:13:49 GMT+0530 (India Standard Time): /api/notes
+info Sun Sep 27 2020 19:13:49 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:13:56 GMT+0530 (India Standard Time): /auth/google
+info Sun Sep 27 2020 19:13:56 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:19:30 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F4gFPAiN6tzbA6xn-8mVV33PGUpqCkUr84YIO80q7Pu0yF9Nsy9LCXyvFKOMoJ4f1MDs7raH2CTjZ1wysyTJcOaA&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sun Sep 27 2020 19:19:30 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:19:30 GMT+0530 (India Standard Time): /api/profile
+info Sun Sep 27 2020 19:19:30 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:19:33 GMT+0530 (India Standard Time): /auth/logout
+info Sun Sep 27 2020 19:19:33 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:20:09 GMT+0530 (India Standard Time): /auth/google
+info Sun Sep 27 2020 19:20:09 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:20:16 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F4gFtQxkWllxhSV0lwti4PehEJZVluCtRVAn8uZuAtitXJecvU5A61j6JOLDO0lSX7A79mHGBYi8JWrOOPU50ZoY&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sun Sep 27 2020 19:20:16 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:20:16 GMT+0530 (India Standard Time): /api/profile
+info Sun Sep 27 2020 19:20:16 GMT+0530 (India Standard Time): {}
+info Sun Sep 27 2020 19:50:31 GMT+0530 (India Standard Time): /auth/logout
+info Sun Sep 27 2020 19:50:31 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:24:10 GMT+0530 (India Standard Time): /auth/logout
+info Mon Sep 28 2020 00:24:10 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:31:03 GMT+0530 (India Standard Time): /auth/google
+info Mon Sep 28 2020 00:31:03 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:32:00 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:32:00 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:32:03 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:32:03 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:33:22 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:33:22 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:33:22 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:33:22 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:34:00 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:34:01 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:34:01 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:34:01 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:34:10 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:34:10 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:34:10 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:34:10 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:34:59 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:34:59 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:34:59 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:34:59 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:35:08 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:35:08 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:35:08 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:35:08 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:36:23 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:36:23 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:36:32 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:36:32 GMT+0530 (India Standard Time): {}
+error Mon Sep 28 2020 00:37:43 GMT+0530 (India Standard Time): connection error: connection <monitor> to 127.0.0.1:27017 timed out
+info Mon Sep 28 2020 00:37:53 GMT+0530 (India Standard Time): db connection success
+info Mon Sep 28 2020 00:37:53 GMT+0530 (India Standard Time): Listening on port: 3000
+info Mon Sep 28 2020 00:38:14 GMT+0530 (India Standard Time): db connection success
+info Mon Sep 28 2020 00:38:14 GMT+0530 (India Standard Time): Listening on port: 3000
+info Mon Sep 28 2020 00:38:29 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:38:29 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:38:30 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:38:30 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:38:30 GMT+0530 (India Standard Time): /favicon.ico
+info Mon Sep 28 2020 00:38:30 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:38:39 GMT+0530 (India Standard Time): db connection success
+info Mon Sep 28 2020 00:38:39 GMT+0530 (India Standard Time): Listening on port: 3000
+info Mon Sep 28 2020 00:38:56 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:38:56 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:38:56 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:38:56 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:42:09 GMT+0530 (India Standard Time): db connection success
+info Mon Sep 28 2020 00:42:09 GMT+0530 (India Standard Time): Listening on port: 3000
+info Mon Sep 28 2020 00:42:12 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:42:12 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:42:12 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:42:12 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:42:47 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:42:47 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:42:47 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:42:47 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:42:56 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:42:56 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:42:56 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:42:56 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:10 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:43:10 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:10 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:43:10 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:36 GMT+0530 (India Standard Time): /auth/google
+info Mon Sep 28 2020 00:43:36 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:39 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F4gGYmdIsrVsBU_Hc80WAq2ppY9MgTM5hCfJ4QJsSoF9HiZBmgdvnfEpRzLYearWmJajkYJkSEpfYYJpd2i1QDrQ&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Mon Sep 28 2020 00:43:39 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:40 GMT+0530 (India Standard Time): /api/profile
+info Mon Sep 28 2020 00:43:40 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:49 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:43:49 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:50 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:43:50 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:52 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:43:52 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:55 GMT+0530 (India Standard Time): /auth/logout
+info Mon Sep 28 2020 00:43:55 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:43:58 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:43:58 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:44:01 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:44:01 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:44:03 GMT+0530 (India Standard Time): /api/notes
+info Mon Sep 28 2020 00:44:03 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:54:46 GMT+0530 (India Standard Time): /auth/google
+info Mon Sep 28 2020 00:54:46 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 00:56:14 GMT+0530 (India Standard Time): /auth/google
+info Mon Sep 28 2020 00:56:14 GMT+0530 (India Standard Time): {}
+info Mon Sep 28 2020 02:07:12 GMT+0530 (India Standard Time): db connection success
+info Mon Sep 28 2020 02:07:12 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sat Oct 10 2020 01:09:41 GMT+0530 (India Standard Time): db connection success
+info Sat Oct 10 2020 01:09:41 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sat Oct 10 2020 01:12:09 GMT+0530 (India Standard Time): /api//notes
+info Sat Oct 10 2020 01:12:09 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:27 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 01:12:27 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:33 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AHQ3rTdQxviBy5xV9pF_MU6PydL7HHX_nj6oNzKosOWus_rfwAnXfkp9_GWKHK71kRlIhKl-S64fZz38I0YK40&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 01:12:33 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:34 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 01:12:34 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:34 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:34 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:38 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:38 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:39 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:39 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:39 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:39 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:40 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:40 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:46 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:46 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:47 GMT+0530 (India Standard Time): /auth/logout
+info Sat Oct 10 2020 01:12:47 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:49 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:49 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:50 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:50 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:53 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 01:12:53 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:57 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AEGAzcKbxMc2rSHgc4Bulitew47S9XnZBcWlyugs8EiYRoYVlB193pMgIZMZC-UlI2_-uEN7C8FnkuP5xRCgbw&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 01:12:57 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:57 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 01:12:57 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:12:58 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:12:58 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:14:48 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:14:48 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:15:09 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:15:09 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:15:12 GMT+0530 (India Standard Time): /auth/logout
+info Sat Oct 10 2020 01:15:12 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:15:23 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 01:15:23 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:15:26 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AEydWLAHZO5W9jJikUO1OO5xPY5WtoR0HcTB5F3f4wvQrDtWlSU_HoHvxCwFyGsDEM7Ua61fkoWI9H1RlLe8xM&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 01:15:26 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:15:26 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 01:15:26 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:15:30 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:15:30 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:19:11 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 01:19:11 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:19:13 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AHTG3rHaAkq4qyICVxqY9IN8G0oPL9z2HF0Xsi4YZmdop-rL6FD9fnyzU1qD36HDCQC79I2s8vEALh1xarvJi4&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 01:19:13 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:19:15 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 01:19:15 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:19:19 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:19:19 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:19:26 GMT+0530 (India Standard Time): /auth/logout
+info Sat Oct 10 2020 01:19:26 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:22:11 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 01:22:11 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:22:23 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AHuZPPjzHW-xX1hpnyehHiU29QgRJIV0EGpoLwwGZRYTDd2YK-_JabP2Obr4O4o3AXc-YWFlqUdAdWiJm-TSPM&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 01:22:23 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:22:23 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 01:22:23 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:22:24 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:22:24 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:22:32 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:22:32 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:22:36 GMT+0530 (India Standard Time): /auth/logout
+info Sat Oct 10 2020 01:22:36 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:22:45 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:22:45 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 01:22:45 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 01:22:45 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 03:16:30 GMT+0530 (India Standard Time): db connection success
+info Sat Oct 10 2020 03:16:30 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sat Oct 10 2020 14:34:02 GMT+0530 (India Standard Time): db connection success
+info Sat Oct 10 2020 14:34:02 GMT+0530 (India Standard Time): Listening on port: 3000
+info Sat Oct 10 2020 14:37:48 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 14:37:48 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:38:27 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 14:38:27 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:38:30 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AHzwHoU3AXg9m_-W3k1hr_CW1drCNo9FuQ1-Yds0aghfP8RGolfDHyFyP2AHfJ3b85iW91m5_UE3444FyRLz10&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 14:38:30 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:38:31 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 14:38:31 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:38:31 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:38:31 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:47:51 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 14:47:51 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:47:53 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AHLdAyEyKnR-OmQCBPEJ2_S5uvrAQJVLKcgm4rsHL532h-l-J_BP_fzLcxgPdJxtDkvkse_lPYPmPX4dLJurho&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 14:47:53 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:47:54 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 14:47:54 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:48:35 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:48:35 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:49:59 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:49:59 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:07 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:07 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:09 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:09 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:19 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:19 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:38 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:38 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:41 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:41 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:43 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:43 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:44 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:44 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:45 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:45 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:46 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:46 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:50:46 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:50:46 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:55:24 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:55:24 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:55:28 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:55:28 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:55:28 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:55:28 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:55:49 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:55:49 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:55:53 GMT+0530 (India Standard Time): /auth/logout
+info Sat Oct 10 2020 14:55:53 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:56:05 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 14:56:05 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:56:07 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AFOLlxMEShL9pO3VF6O0hm0nEUqIE-MxCrlRpO72svoDcboIUYhyKfK1XF0LR4fITb8XIHBRmgEc7w-FmicIbg&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 14:56:07 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:56:08 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 14:56:08 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:56:09 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:56:09 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:56:26 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:56:26 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:56:38 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:56:38 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:56:45 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:56:45 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:59:03 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:59:03 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:59:07 GMT+0530 (India Standard Time): /auth/logout
+info Sat Oct 10 2020 14:59:07 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:59:08 GMT+0530 (India Standard Time): /auth/google
+info Sat Oct 10 2020 14:59:08 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:59:11 GMT+0530 (India Standard Time): /auth/google/redirect?code=4%2F5AG7Z-PR9LS6m38GMFZahCfLm4IfZ1OfHqMquU9F7irc1IuTuv-oE-v7ewZhOpOb0Arhipi1oKLeSV3bsQP9DpA&scope=profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile
+info Sat Oct 10 2020 14:59:11 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:59:12 GMT+0530 (India Standard Time): /api/profile
+info Sat Oct 10 2020 14:59:12 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 14:59:15 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 14:59:15 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 15:00:29 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 15:00:29 GMT+0530 (India Standard Time): {}
+info Sat Oct 10 2020 15:00:47 GMT+0530 (India Standard Time): /api/notes
+info Sat Oct 10 2020 15:00:47 GMT+0530 (India Standard Time): {}

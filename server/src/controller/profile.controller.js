@@ -1,5 +1,6 @@
 function getProfile(req, res) {
-    res.send(req.user.username);
+    res.redirect('http://localhost:4200/notes');
+    // res.send(req.user.username);
 }   
 
 module.exports = {

@@ -1,0 +1,14 @@
+<div class='header'>
+  <button mat-button color="accent" (click)='logout()'>Log out</button>
+</div>
+<h3>Notes</h3>
+{{(notes) | json}}
+<ul>
+  <li *ngFor='let note of (notes).notes; let i = index;'>
+    {{note}}
+    <button mat-mini-fab color="warn" aria-label="Example icon button with a filter list icon" (click)='removeNote(i)'>
+      x
+    </button>
+</ul>
+
+<button mat-stroked-button color="accent" (click)='addNote()'>Add Note</button>

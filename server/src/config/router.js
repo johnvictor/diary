@@ -5,7 +5,7 @@ const { getNotesController, addNoteController } = require('../controller/notes.c
 const { getProfileRoute } = require('../controller/profile.controller');
 
 const authcheck = (req, res, next) => {
-    if(!req.user) return res.send('Not logged in');
+    if(!req.user) return res.status(401).send();
 
     next();
 };

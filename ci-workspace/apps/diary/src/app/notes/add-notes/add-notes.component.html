@@ -1,0 +1,5 @@
+<mat-form-field>
+    <mat-label>Note title</mat-label>
+    <input matInput #note>
+</mat-form-field>
+<button mat-stroked-button color="accent" (click)='addNote(note.value)'>Add Note</button>

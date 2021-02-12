@@ -12,7 +12,9 @@ router.get('/google/redirect', passport.authenticate('google'), function(req, re
 router.get('/logout', function(req, res) {
     req.logout();
     req.session = null;
-    res.send('Loggged out')
+    res.json({
+        status: true
+    });
 });
 
 module.exports = router;
